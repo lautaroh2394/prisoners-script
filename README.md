@@ -1,5 +1,5 @@
 # Readme
-This is a simple script that simulates the problem stated in this [Veritasium video](https://github.com/lautaroh2394/prisoners-script.git), something I played around a bit with on a free saturday morning.
+This is a simple script that simulates the problem stated in this [Veritasium video](https://youtu.be/iSNsgj1OCLA), something I played around a bit with on a free saturday morning.
 
 To execute simply call it from the terminal
 ```bash
